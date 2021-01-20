@@ -1,0 +1,692 @@
+Prey at (287, 216) has eaten some grass
+Prey at (101, 404) has eaten some grass
+Prey at (478, 370) has eaten some grass
+Prey at (209, 414) has eaten some grass
+Prey at (85, 151) has eaten some grass
+Prey at (229, 429) has eaten some grass
+Prey at (67, 472) has eaten some grass
+Prey at (387, 123) has eaten some grass
+Prey at (122, 13) has eaten some grass
+Prey at (263, 429) has eaten some grass
+Prey at (282, 189) has eaten some grass
+Prey at (56, 386) has eaten some grass
+Prey at (84, 406) has eaten some grass
+Prey at (310, 86) has eaten some grass
+Prey at (227, 82) has eaten some grass
+Prey at (2, 356) has eaten some grass
+Prey at (192, 434) has eaten some grass
+Prey at (259, 297) has eaten some grass
+Prey at (242, 228) has eaten some grass
+Prey at (213, 292) has eaten some grass
+Prey at (244, 86) has eaten some grass
+Prey at (72, 305) has eaten some grass
+Prey at (227, 216) has eaten some grass
+Prey at (166, 257) has eaten some grass
+Prey at (373, 162) has eaten some grass
+Prey at (407, 482) has eaten some grass
+Prey at (357, 442) has eaten some grass
+Prey at (487, 139) has eaten some grass
+Prey at (179, 199) has eaten some grass
+Prey at (492, 342) has eaten some grass
+Prey at (221, 371) has eaten some grass
+Prey at (295, 55) has eaten some grass
+Prey at (212, 207) has eaten some grass
+Prey at (317, 141) has eaten some grass
+Prey at (255, 130) has eaten some grass
+Prey at (398, 206) has eaten some grass
+Prey at (361, 35) has eaten some grass
+Prey at (87, 49) has eaten some grass
+Prey at (285, 494) has eaten some grass
+Prey at (197, 170) has eaten some grass
+Prey at (259, 403) has eaten some grass
+Prey at (328, 292) has eaten some grass
+Prey at (431, 195) has eaten some grass
+Prey at (384, 58) has eaten some grass
+Prey at (69, 435) has eaten some grass
+Prey at (415, 414) has eaten some grass
+Prey at (462, 91) has eaten some grass
+Prey at (490, 396) has eaten some grass
+Prey at (480, 304) has eaten some grass
+Prey at (46, 282) has eaten some grass
+Prey at (40, 375) has eaten some grass
+Prey at (442, 85) has eaten some grass
+Prey at (214, 321) has eaten some grass
+Prey at (303, 266) has eaten some grass
+Prey at (201, 17) has eaten some grass
+Prey at (419, 85) has eaten some grass
+Prey at (455, 191) has eaten some grass
+Prey at (64, 417) has eaten some grass
+Prey at (343, 34) has eaten some grass
+Prey at (309, 451) has eaten some grass
+Prey at (24, 184) has eaten some grass
+Prey at (474, 353) has eaten some grass
+Prey at (351, 403) has eaten some grass
+Prey at (313, 379) has eaten some grass
+Prey at (151, 346) has eaten some grass
+Prey at (147, 423) has eaten some grass
+Prey at (15, 305) has eaten some grass
+Prey at (172, 333) has eaten some grass
+Prey at (490, 245) has eaten some grass
+Prey at (62, 227) has eaten some grass
+Prey at (49, 477) has eaten some grass
+Prey at (396, 96) has eaten some grass
+Prey at (426, 298) has eaten some grass
+Prey at (445, 207) has eaten some grass
+Prey at (264, 473) has eaten some grass
+Prey at (286, 446) has eaten some grass
+Prey at (474, 375) has eaten some grass
+Prey at (199, 10) has eaten some grass
+Prey at (351, 148) has eaten some grass
+Prey at (297, 12) has eaten some grass
+Prey at (115, 186) has eaten some grass
+Prey at (387, 15) has eaten some grass
+Prey at (18, 120) has eaten some grass
+Prey at (210, 337) has eaten some grass
+Predator at (215, 50) has eaten Prey at (213, 66)
+Predator at (289, 273) has eaten Prey at (303, 266)
+Predator at (100, 488) has mated with Predator at (87, 489)
+Predator at (100, 488) has eaten Prey at (82, 495)
+Predator at (394, 177) has eaten Prey at (373, 162)
+Predator at (121, 480) has eaten some grass
+Predator at (249, 440) has eaten Prey at (263, 429)
+Predator at (248, 488) has eaten Prey at (264, 473)
+Predator at (125, 320) has eaten some grass
+Predator at (362, 428) has eaten Prey at (357, 442)
+Predator at (418, 68) has eaten Prey at (420, 75)
+Predator at (366, 260) has eaten some grass
+Predator at (41, 198) has eaten Prey at (35, 213)
+Predator at (304, 458) has eaten Prey at (309, 451)
+Predator at (159, 242) has eaten Prey at (162, 235)
+Predator at (396, 238) has eaten some grass
+Predator at (235, 50) has eaten Prey at (219, 29)
+Predator at (120, 55) has eaten some grass
+Predator at (123, 362) has eaten some grass
+Predator at (267, 408) has eaten Prey at (270, 400)
+Predator at (347, 464) has eaten some grass
+Predator at (458, 477) has eaten some grass
+Predator at (82, 64) has eaten Prey at (73, 54)
+Predator at (230, 86) has eaten Prey at (227, 82)
+Predator at (348, 412) has eaten Prey at (351, 403)
+Predator at (19, 442) has mated with Predator at (15, 463)
+Predator at (19, 442) has eaten Prey at (15, 458)
+Predator at (271, 152) has eaten Prey at (289, 139)
+Predator at (35, 133) has eaten Prey at (18, 120)
+Predator at (347, 279) has eaten Prey at (328, 292)
+Predator at (153, 214) has eaten Prey at (179, 199)
+Predator at (59, 464) has eaten Prey at (67, 472)
+Predator at (423, 222) has eaten Prey at (445, 207)
+Predator at (443, 79) has eaten Prey at (442, 85)
+Predator at (30, 145) has eaten some grass
+Predator at (150, 490) has eaten some grass
+Predator at (369, 120) has eaten Prey at (387, 123)
+Predator at (283, 130) has eaten Prey at (307, 138)
+Predator at (242, 411) has eaten Prey at (259, 403)
+Predator at (463, 183) has eaten Prey at (455, 191)
+Predator at (290, 451) has eaten Prey at (286, 446)
+Predator at (83, 4) has eaten some grass
+Predator at (459, 298) has eaten Prey at (480, 304)
+Predator at (312, 401) has eaten Prey at (313, 408)
+Predator at (327, 431) has eaten some grass
+Predator at (487, 202) has eaten Prey at (481, 205)
+Predator at (16, 459) has eaten some grass
+Predator at (483, 383) has eaten Prey at (474, 375)
+Predator at (298, 303) has eaten Prey at (295, 322)
+Predator at (242, 366) has eaten Prey at (221, 371)
+Predator at (345, 173) has eaten Prey at (351, 148)
+Predator at (437, 391) has eaten Prey at (435, 377)
+Predator at (48, 60) has eaten some grass
+Predator at (329, 91) has eaten Prey at (310, 86)
+Predator at (183, 38) has eaten Prey at (192, 47)
+Predator at (21, 475) has eaten Prey at (49, 477)
+Predator at (67, 394) has eaten Prey at (56, 386)
+Predator at (424, 168) has eaten Prey at (428, 186)
+Predator at (417, 333) has eaten some grass
+Predator at (164, 80) has eaten some grass
+Predator at (374, 114) has eaten Prey at (396, 96)
+Predator at (459, 373) has eaten Prey at (478, 370)
+Predator at (113, 265) has eaten Prey at (111, 254)
+Predator at (274, 444) has eaten some grass
+Predator at (311, 224) has eaten Prey at (331, 228)
+Predator at (458, 330) has eaten Prey at (474, 353)
+Predator at (176, 174) has eaten Prey at (173, 178)
+Predator at (22, 40) has eaten some grass
+Predator at (338, 366) has eaten Prey at (342, 370)
+Predator at (130, 497) has eaten some grass
+Predator at (426, 96) has eaten Prey at (419, 85)
+Predator at (414, 457) has eaten Prey at (407, 482)
+Predator at (356, 121) has eaten some grass
+Predator at (333, 164) has eaten Prey at (317, 141)
+Predator at (69, 183) has eaten some grass
+Predator at (444, 247) has eaten some grass
+Predator at (28, 398) has eaten Prey at (40, 375)
+Predator at (157, 218) has eaten some grass
+Predator at (306, 468) has eaten some grass
+Predator at (467, 264) has eaten Prey at (490, 245)
+Predator at (341, 274) has eaten Prey at (320, 264)
+Predator at (200, 246) has eaten some grass
+Predator at (336, 175) has eaten some grass
+Predator at (265, 22) has eaten Prey at (285, 39)
+Predator at (83, 452) has eaten Prey at (69, 435)
+Predator at (272, 306) has eaten Prey at (259, 297)
+Predator at (358, 396) has eaten some grass
+Predator at (124, 352) has eaten Prey at (151, 346)
+Predator at (240, 218) has eaten Prey at (242, 228)
+Predator at (371, 430) has eaten some grass
+Predator at (57, 323) has eaten Prey at (75, 320)
+Predator at (266, 157) has eaten Prey at (255, 130)
+Predator at (289, 371) has eaten Prey at (313, 379)
+Predator at (477, 200) has eaten Prey at (478, 190)
+Predator at (38, 79) has eaten some grass
+Predator at (434, 33) has eaten some grass
+Predator at (117, 439) has eaten some grass
+Predator at (362, 399) has eaten some grass
+Predator at (124, 4) has eaten Prey at (122, 13)
+Predator at (424, 124) has eaten some grass
+Predator at (97, 61) has eaten Prey at (87, 49)
+Predator at (346, 49) has eaten Prey at (343, 34)
+Predator at (274, 255) has eaten some grass
+Predator at (56, 285) has eaten Prey at (46, 282)
+Predator at (132, 58) has eaten some grass
+Predator at (494, 430) has eaten some grass
+Predator at (337, 219) has eaten Prey at (339, 229)
+Predator at (187, 31) has eaten Prey at (201, 17)
+Predator at (56, 245) has eaten Prey at (62, 227)
+Predator at (284, 5) has eaten Prey at (297, 12)
+Predator at (412, 428) has eaten Prey at (415, 414)
+Predator at (85, 487) has eaten Prey at (63, 495)
+Predator at (35, 43) has eaten some grass
+Predator at (377, 170) has eaten some grass
+Predator at (259, 244) has eaten some grass
+Predator at (407, 348) has eaten some grass
+Predator at (488, 394) has eaten Prey at (490, 396)
+Predator at (24, 105) has eaten some grass
+Predator at (221, 260) has eaten some grass
+Predator at (388, 169) has eaten some grass
+Predator at (319, 270) has eaten Prey at (314, 278)
+Predator at (464, 49) has eaten some grass
+Predator at (286, 28) has eaten Prey at (296, 40)
+Predator at (68, 365) has eaten some grass
+Predator at (483, 203) has eaten Prey at (484, 223)
+Predator at (281, 404) has eaten some grass
+
+
+Predators remaining: 202 Prey remaining: 150
+
+Prey at (210, 411) has eaten some grass
+Prey at (86, 148) has eaten some grass
+Prey at (494, 339) has eaten some grass
+Prey at (438, 375) has eaten some grass
+Prey at (360, 39) has eaten some grass
+Prey at (285, 494) has eaten some grass
+Prey at (465, 91) has eaten some grass
+Prey at (61, 420) has eaten some grass
+Prey at (245, 191) has eaten some grass
+Prey at (119, 183) has eaten some grass
+Prey at (212, 337) has eaten some grass
+Predator at (259, 480) has eaten some grass
+Predator at (366, 232) has eaten some grass
+Predator at (250, 443) has eaten Prey at (229, 435)
+Predator at (245, 492) has eaten some grass
+Predator at (123, 323) has eaten some grass
+Predator at (351, 220) has eaten some grass
+Predator at (366, 260) has eaten some grass
+Predator at (43, 195) has eaten Prey at (27, 187)
+Predator at (157, 242) has eaten Prey at (166, 261)
+Predator at (398, 240) has eaten some grass
+Predator at (238, 46) has eaten Prey at (216, 28)
+Predator at (118, 52) has eaten some grass
+Predator at (265, 407) has eaten Prey at (257, 387)
+Predator at (344, 461) has eaten some grass
+Predator at (23, 444) has eaten some grass
+Predator at (38, 134) has eaten some grass
+Predator at (154, 213) has eaten some grass
+Predator at (420, 225) has eaten Prey at (398, 206)
+Predator at (444, 76) has eaten Prey at (465, 91)
+Predator at (27, 144) has eaten some grass
+Predator at (295, 30) has eaten Prey at (301, 23)
+Predator at (244, 409) has eaten Prey at (227, 427)
+Predator at (460, 185) has eaten Prey at (435, 194)
+Predator at (472, 406) has eaten some grass
+Predator at (8, 278) has eaten Prey at (17, 302)
+Predator at (462, 295) has eaten some grass
+Predator at (315, 403) has eaten some grass
+Predator at (300, 300) has eaten Prey at (321, 297)
+Predator at (437, 422) has eaten some grass
+Predator at (238, 368) has eaten some grass
+Predator at (330, 91) has eaten some grass
+Predator at (182, 40) has eaten Prey at (171, 23)
+Predator at (63, 391) has eaten Prey at (84, 406)
+Predator at (461, 375) has eaten Prey at (438, 375)
+Predator at (57, 373) has eaten some grass
+Predator at (112, 265) has eaten Prey at (108, 238)
+Predator at (274, 444) has eaten some grass
+Predator at (460, 333) has eaten some grass
+Predator at (174, 174) has eaten Prey at (195, 172)
+Predator at (22, 40) has eaten some grass
+Predator at (355, 276) has eaten some grass
+Predator at (360, 121) has eaten some grass
+Predator at (331, 161) has eaten some grass
+Predator at (440, 245) has eaten some grass
+Predator at (255, 115) has eaten some grass
+Predator at (27, 400) has eaten some grass
+Predator at (324, 349) has eaten some grass
+Predator at (466, 263) has eaten some grass
+Predator at (272, 303) has eaten some grass
+Predator at (390, 317) has eaten some grass
+Predator at (31, 322) has eaten some grass
+Predator at (311, 40) has eaten Prey at (295, 55)
+Predator at (239, 214) has eaten Prey at (223, 217)
+Predator at (432, 31) has eaten some grass
+Predator at (96, 60) has eaten some grass
+Predator at (343, 50) has eaten Prey at (360, 39)
+Predator at (428, 209) has eaten some grass
+Predator at (58, 287) has eaten Prey at (75, 305)
+Predator at (187, 28) has eaten Prey at (199, 10)
+Predator at (43, 308) has mated with Predator at (31, 322)
+Predator at (257, 244) has eaten some grass
+Predator at (404, 350) has eaten some grass
+Predator at (242, 422) has eaten some grass
+Predator at (16, 495) has mated with Predator at (21, 485)
+Predator at (66, 362) has eaten some grass
+
+
+Predators remaining: 204 Prey remaining: 48
+
+Prey at (2, 337) has eaten some grass
+Predator at (172, 275) has eaten some grass
+Predator at (41, 199) has eaten Prey at (42, 215)
+Predator at (388, 309) has eaten some grass
+Predator at (153, 212) has eaten some grass
+Predator at (245, 408) has eaten some grass
+Predator at (25, 478) has mated with Predator at (24, 474)
+Predator at (239, 367) has eaten some grass
+Predator at (346, 174) has eaten some grass
+Predator at (175, 176) has eaten some grass
+Predator at (216, 215) has eaten Prey at (213, 207)
+Predator at (84, 453) has eaten some grass
+Predator at (390, 318) has eaten some grass
+Predator at (313, 41) has eaten some grass
+Predator at (343, 50) has eaten some grass
+Predator at (58, 286) has eaten some grass
+Predator at (60, 248) has eaten Prey at (81, 247)
+Predator at (283, 7) has mated with Predator at (289, 25)
+Predator at (321, 269) has eaten some grass
+
+
+Predators remaining: 205 Prey remaining: 31
+
+Prey at (207, 409) has mated with Prey at (200, 402)
+Prey at (282, 187) has eaten some grass
+Prey at (6, 360) has eaten some grass
+Prey at (118, 182) has eaten some grass
+Predator at (172, 273) has eaten some grass
+Predator at (23, 479) has mated with Predator at (28, 475)
+Predator at (109, 265) has mated with Predator at (110, 268)
+Predator at (26, 399) has eaten some grass
+Predator at (390, 320) has eaten some grass
+Predator at (57, 286) has eaten some grass
+Predator at (276, 409) has eaten Prey at (293, 394)
+Predator at (211, 387) has eaten Prey at (190, 384)
+
+
+Predators remaining: 207 Prey remaining: 37
+
+Prey at (188, 431) has eaten some grass
+Predator at (168, 274) has eaten some grass
+Predator at (281, 157) has eaten Prey at (282, 187)
+Predator at (10, 269) has eaten Prey at (15, 245)
+Predator at (64, 389) has eaten Prey at (57, 415)
+Predator at (34, 479) has mated with Predator at (32, 475)
+Predator at (466, 331) has eaten Prey at (491, 342)
+Predator at (445, 245) has mated with Predator at (465, 263)
+Predator at (388, 326) has eaten some grass
+
+
+Predators remaining: 209 Prey remaining: 41
+
+Prey at (156, 371) has eaten some grass
+Predator at (469, 411) has mated with Predator at (485, 398)
+Predator at (377, 36) has eaten Prey at (384, 58)
+Predator at (67, 392) has eaten Prey at (85, 408)
+Predator at (332, 154) has eaten Prey at (321, 126)
+Predator at (241, 214) has eaten Prey at (244, 184)
+Predator at (117, 434) has eaten Prey at (142, 420)
+Predator at (424, 129) has eaten some grass
+Predator at (452, 75) has mated with Predator at (444, 74)
+
+
+Predators remaining: 210 Prey remaining: 38
+
+Predator at (35, 47) has mated with Predator at (21, 49)
+
+
+Predators remaining: 213 Prey remaining: 32
+
+Prey at (173, 141) has eaten some grass
+Predator at (391, 240) has eaten some grass
+Predator at (305, 25) has eaten some grass
+Predator at (192, 45) has mated with Predator at (198, 36)
+Predator at (181, 178) has eaten some grass
+Predator at (325, 491) has eaten some grass
+Predator at (202, 251) has eaten some grass
+Predator at (111, 429) has eaten Prey at (99, 401)
+Predator at (280, 244) has eaten Prey at (292, 219)
+Predator at (249, 288) has mated with Predator at (266, 299)
+
+
+Predators remaining: 214 Prey remaining: 37
+
+Prey at (189, 421) has eaten some grass
+Predator at (210, 57) has eaten some grass
+Predator at (383, 116) has eaten some grass
+Predator at (454, 220) has eaten some grass
+
+
+Predators remaining: 214 Prey remaining: 35
+
+Prey at (155, 376) has eaten some grass
+Predator at (196, 341) has eaten Prey at (175, 337)
+Predator at (417, 75) has eaten some grass
+Predator at (254, 135) has eaten some grass
+Predator at (459, 296) has eaten Prey at (437, 307)
+Predator at (314, 345) has eaten some grass
+Predator at (14, 299) has eaten some grass
+Predator at (46, 80) has eaten some grass
+Predator at (288, 12) has mated with Predator at (294, 20)
+Predator at (253, 425) has mated with Predator at (264, 415)
+Predator at (309, 350) has eaten some grass
+
+
+Predators remaining: 217 Prey remaining: 34
+
+Prey at (241, 177) has eaten some grass
+Prey at (129, 179) has eaten some grass
+Predator at (254, 478) has mated with Predator at (246, 483)
+Predator at (351, 461) has eaten Prey at (359, 489)
+Predator at (161, 215) has eaten some grass
+Predator at (324, 488) has eaten some grass
+Predator at (27, 395) has eaten some grass
+Predator at (248, 221) has eaten some grass
+Predator at (465, 57) has eaten some grass
+
+
+Predators remaining: 216 Prey remaining: 31
+
+Predator at (194, 345) has eaten some grass
+Predator at (303, 453) has mated with Predator at (293, 457)
+Predator at (70, 247) has mated with Predator at (59, 238)
+Predator at (453, 70) has mated with Predator at (443, 81)
+
+
+Predators remaining: 219 Prey remaining: 31
+
+Predator at (190, 345) has eaten some grass
+Predator at (232, 413) has eaten Prey at (202, 415)
+Predator at (327, 420) has mated with Predator at (334, 411)
+Predator at (328, 149) has eaten some grass
+Predator at (27, 387) has eaten Prey at (13, 362)
+Predator at (31, 33) has eaten some grass
+
+
+Predators remaining: 220 Prey remaining: 32
+
+Predator at (248, 475) has mated with Predator at (246, 482)
+Predator at (145, 254) has eaten some grass
+
+
+Predators remaining: 223 Prey remaining: 28
+
+Predator at (377, 234) has eaten some grass
+Predator at (271, 157) has eaten Prey at (246, 172)
+Predator at (326, 415) has mated with Predator at (328, 412)
+Predator at (105, 263) has mated with Predator at (116, 276)
+
+
+Predators remaining: 224 Prey remaining: 30
+
+Predator at (19, 449) has mated with Predator at (13, 461)
+Predator at (5, 58) has mated with Predator at (26, 56)
+
+
+Predators remaining: 143 Prey remaining: 28
+
+Prey at (238, 318) has mated with Prey at (222, 322)
+Predator at (92, 491) has mated with Predator at (99, 490)
+Predator at (121, 365) has eaten some grass
+Predator at (173, 78) has eaten Prey at (146, 80)
+Predator at (431, 108) has eaten Prey at (456, 109)
+Predator at (338, 163) has mated with Predator at (338, 174)
+Predator at (278, 11) has eaten Prey at (274, 0)
+Predator at (366, 404) has mated with Predator at (375, 415)
+Predator at (307, 43) has eaten some grass
+Predator at (124, 203) has eaten Prey at (128, 176)
+Predator at (87, 169) has eaten Prey at (81, 155)
+
+
+Predators remaining: 167 Prey remaining: 29
+
+Predator at (299, 280) has mated with Predator at (323, 272)
+Predator at (307, 466) has mated with Predator at (293, 456)
+
+
+Predators remaining: 171 Prey remaining: 21
+
+Prey at (166, 125) has eaten some grass
+Prey at (489, 156) has eaten some grass
+Predator at (14, 455) has eaten some grass
+Predator at (465, 411) has eaten some grass
+Predator at (127, 359) has eaten Prey at (153, 365)
+Predator at (41, 31) has eaten some grass
+Predator at (237, 42) has mated with Predator at (238, 46)
+
+
+Predators remaining: 175 Prey remaining: 25
+
+Predator at (230, 61) has eaten Prey at (242, 88)
+Predator at (348, 258) has mated with Predator at (364, 266)
+Predator at (250, 145) has eaten some grass
+Predator at (118, 200) has eaten some grass
+
+
+Predators remaining: 174 Prey remaining: 23
+
+Predator at (245, 477) has eaten Prey at (269, 491)
+Predator at (326, 398) has mated with Predator at (333, 410)
+Predator at (175, 184) has eaten some grass
+
+
+Predators remaining: 129 Prey remaining: 22
+
+Prey at (217, 291) has mated with Prey at (221, 305)
+Predator at (247, 138) has mated with Predator at (272, 150)
+Predator at (458, 360) has mated with Predator at (468, 337)
+Predator at (113, 199) has eaten some grass
+
+
+Predators remaining: 126 Prey remaining: 22
+
+Prey at (166, 122) has eaten some grass
+Predator at (262, 164) has mated with Predator at (271, 147)
+Predator at (243, 411) has mated with Predator at (263, 404)
+
+
+Predators remaining: 115 Prey remaining: 23
+
+Predator at (156, 267) has mated with Predator at (155, 257)
+Predator at (243, 382) has mated with Predator at (262, 400)
+Predator at (150, 116) has eaten Prey at (163, 122)
+
+
+Predators remaining: 120 Prey remaining: 23
+
+
+
+Predators remaining: 106 Prey remaining: 21
+
+
+
+Predators remaining: 87 Prey remaining: 22
+
+Prey at (493, 157) has eaten some grass
+Predator at (68, 399) has eaten some grass
+
+
+Predators remaining: 78 Prey remaining: 22
+
+Prey at (167, 440) has eaten some grass
+Predator at (310, 207) has eaten some grass
+Predator at (154, 122) has eaten Prey at (177, 139)
+
+
+Predators remaining: 71 Prey remaining: 22
+
+
+
+Predators remaining: 60 Prey remaining: 20
+
+Predator at (434, 97) has eaten some grass
+Predator at (206, 340) has eaten Prey at (221, 316)
+
+
+Predators remaining: 58 Prey remaining: 21
+
+Predator at (206, 338) has eaten Prey at (231, 326)
+
+
+Predators remaining: 53 Prey remaining: 20
+
+Predator at (470, 421) has eaten some grass
+
+
+Predators remaining: 54 Prey remaining: 18
+
+
+
+Predators remaining: 43 Prey remaining: 19
+
+
+
+Predators remaining: 33 Prey remaining: 19
+
+
+
+Predators remaining: 34 Prey remaining: 19
+
+
+
+Predators remaining: 27 Prey remaining: 19
+
+
+
+Predators remaining: 26 Prey remaining: 19
+
+
+
+Predators remaining: 19 Prey remaining: 19
+
+Predator at (201, 329) has eaten Prey at (200, 302)
+
+
+Predators remaining: 18 Prey remaining: 18
+
+
+
+Predators remaining: 17 Prey remaining: 17
+
+Predator at (150, 118) has eaten Prey at (122, 126)
+
+
+Predators remaining: 13 Prey remaining: 17
+
+
+
+Predators remaining: 9 Prey remaining: 16
+
+
+
+Predators remaining: 10 Prey remaining: 17
+
+Predator at (95, 184) has eaten some grass
+
+
+Predators remaining: 8 Prey remaining: 17
+
+
+
+Predators remaining: 9 Prey remaining: 17
+
+
+
+Predators remaining: 7 Prey remaining: 17
+
+
+
+Predators remaining: 8 Prey remaining: 17
+
+
+
+Predators remaining: 8 Prey remaining: 17
+
+
+
+Predators remaining: 6 Prey remaining: 17
+
+
+
+Predators remaining: 7 Prey remaining: 17
+
+
+
+Predators remaining: 5 Prey remaining: 17
+
+
+
+Predators remaining: 4 Prey remaining: 17
+
+
+
+Predators remaining: 2 Prey remaining: 16
+
+
+
+Predators remaining: 3 Prey remaining: 17
+
+
+
+Predators remaining: 2 Prey remaining: 17
+
+Prey at (469, 28) has eaten some grass
+Prey at (218, 124) has eaten some grass
+
+
+Predators remaining: 2 Prey remaining: 17
+
+
+
+Predators remaining: 2 Prey remaining: 17
+
+
+
+Predators remaining: 2 Prey remaining: 17
+
+Predator at (151, 110) has eaten some grass
+
+
+Predators remaining: 2 Prey remaining: 17
+
+
+
+Predators remaining: 2 Prey remaining: 17
+
+
+
+Predators remaining: 2 Prey remaining: 17
+
+Prey at (166, 410) has eaten some grass
+
+
+Predators remaining: 0 Prey remaining: 17
+
+
+
+Simulation Done
